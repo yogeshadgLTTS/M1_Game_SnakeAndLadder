@@ -8,7 +8,7 @@ It contains the following details.
    Saint Gyandev invented the snake and ladder game in 13th century. the game was used as a part of moral instruction to children. the snakes and ladders is a board game aimed at summarising and reinforcing the pitfalls and virtues of research design in undergraduate research projects. key place concepts can be incorporated into the fabric of the game whilethe player is engaged in the mechanics of the game.
    
    
-## Cost and Features and Timeline
+## Cost Features and Timeline
   ### Features
   - Snake and Ladder game allows students to understand the mathemetical concepts easily.
   - This is a fun interactive activity.
