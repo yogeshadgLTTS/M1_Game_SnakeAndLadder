@@ -24,11 +24,17 @@ Saint Gyandev invented the snake and ladder game in 13th century. the game was u
 •	By playing this game we can improve the ique level.
 •	continous playing of this game may cause eye pain and causes some health issues.
 ## 4W's 1-H
-Who
+Why 
+- To understand the concept of mathematics easily
+- For entertainment purpose
 What
+- It is deployed for teaching and for entertainment.
 When
+- It can be played at any time, and entertains the people while playing.
 Where
+- It can be played in any devices(laptop & PC) which has a preloaded application of game.
 How
+- It can be played by using the logic behind the snake & ladder board game, it as same as this game.
 ## Detailed Requirements
 -	It requires a two players to play this game.
 -	the game will require a dice to know the value.
