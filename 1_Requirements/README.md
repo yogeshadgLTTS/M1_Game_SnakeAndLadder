@@ -27,7 +27,9 @@ Saint Gyandev invented the snake and ladder game in 13th century. the game was u
 ### Why 
 - To understand the concept of mathematics easily
 - For entertainment purpose
+- This project uses simple function, it is very compact to work.
 ### What
+- This idea is to play with desktop or laptop.
 - It is deployed for teaching and for entertainment.
 ### When
 - It can be played at any time, and entertains the people while playing.
