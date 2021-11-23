@@ -1,1 +1,1 @@
-
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/6e893198e81e41539a5b8e7e900834a5)](https://www.codacy.com/gh/AdithyaBK/M1_Game_SnakeAndLadder/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AdithyaBK/M1_Game_SnakeAndLadder&amp;utm_campaign=Badge_Grade)
